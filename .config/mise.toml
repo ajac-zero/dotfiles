@@ -1,0 +1,12 @@
+[tools]
+bat = "latest"
+bun = "latest"
+fzf = "latest"
+just = "latest"
+lazygit = "latest"
+lsd = "latest"
+node = "latest"
+python = "latest"
+rust = "latest"
+starship = "latest"
+uv = "latest"
