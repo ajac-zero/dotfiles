@@ -2,7 +2,7 @@
 
 sudo apt-get update
 
-sudo apt-get install fish stow build-essential python3-venv -y
+sudo apt-get install fish stow build-essential python3-venv zip -y
 
 stow .
 
